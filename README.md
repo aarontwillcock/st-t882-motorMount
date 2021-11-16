@@ -10,7 +10,7 @@ M4 bolt pattern matches ServoCity&reg; 6x8 Hole Pattern Plate (9.00" x 12.00")].
 <!-- ![Isometric Photo 2](st-t882-mm-19mm-cs-iso2-2021-11-16-0714-500px.png "Isometric Photo 2") -->
 ![Isometric Image](st-t882-mm-19mm-cs-iso3-2021-11-16-0714-500px.png "Isometric Image")
 <!-- ![Countersinking Photo 1](st-t882-mm-19mm-cs-csMeasure-2021-11-16-0714-500px.png "Countersinking Photo 1") -->
-![MakerBot Print Image](st-t882-mm-19mm-cs-iso3-2021-11-16-0714-500px.png "MakerBot Print Image")
+![MakerBot Print Image](st-t882-mm-19mm-cs-mbp-2021-11-16-500px.png "MakerBot Print Image")
 ![Real Image](st-t882-mm-19mm-cs-real-2021-11-16-500px.png "Real Image")
 
 ## Source Material
