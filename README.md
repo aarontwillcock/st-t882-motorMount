@@ -24,7 +24,7 @@ M4 bolt pattern matches ServoCity&reg; 6x8 Hole Pattern Plate (9.00" x 12.00")].
 2. [Makerbot&reg;](https://www.makerbot.com/) is a registered trademark of MakerBot Industries, LLC, a [Stratasys Company](https://www.stratasys.com/)
 3. [ServoCity&reg;](https://www.servocity.com/) is a registered trademark of [ServoCity&reg;](https://www.servocity.com/)
 4. [Sketchup&reg](https://www.sketchup.com/) is a 3D modeling program owned by [Trimble&reg; Inc.](https://www.trimble.com/)
-5. This work is not endorsed, funded, sponsored, or supported by [Swagtron&reg;](https://swagtron.com/), [ServoCity&reg;](https://www.servocity.com/);, or [Trimble&reg; Inc.](https://www.trimble.com/)
+5. This work is not endorsed, funded, sponsored, or supported by [Swagtron&reg;](https://swagtron.com/), [Makerbot&reg;](https://www.makerbot.com/), [ServoCity&reg;](https://www.servocity.com/), or [Trimble&reg; Inc.](https://www.trimble.com/)
 
 ## File Description
 
